@@ -1,0 +1,18 @@
+.jumbo{
+    background-image: url('../images/notepad.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    height: 200px;
+    position: relative;
+    z-index: -2;
+}
+.overlay{
+    background-color: #008080;
+    opacity: .5;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
